@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\bin\Debug\Работа №3 через WPF.exe.config
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\bin\Debug\Работа №3 через WPF.exe
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\bin\Debug\Работа №3 через WPF.pdb
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\App.g.cs
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF_MarkupCompile.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF_MarkupCompile.lref
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\MainWindow.baml
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF.g.resources
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа__3_через_WPF.Properties.Resources.resources
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF.csproj.GenerateResource.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF.exe
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №3 через WPF\obj\Debug\Работа №3 через WPF.pdb
